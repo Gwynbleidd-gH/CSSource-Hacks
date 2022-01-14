@@ -1,1 +1,2 @@
-# CounterStrike-Source-Harks
+# CounterStrike-Source-Hacks
+O primeiro pequeno projeto que desenvolvi. O Aimbot foi escrito no começo do ano de 2020 e o ESP pouco tempo depois, enquanto estudava a linguagem C++. Tenho ciência de que o código está longe de seguir qualquer bom princípio de programação, mas eu possuia pouca experiência em programação na época, e por meio dele e outros projetos, aprendi muito sobre o básico do desenvolvimento de um programa. O programa foi desenvolvido somente para fins educativos. Ele foi testado e utilizado em uma build offline do jogo Counter-Strike: Source, sem que nenhum outro jogador tenha sido prejudicado.
